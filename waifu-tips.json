@@ -1,0 +1,227 @@
+{
+	"mouseover": [{
+		"selector": "#live2d",
+		"text": ["おやめください...", "先ほどからちょろちょろと...", "どうしました？", "...はにゃ？", "...ん？", "ろくでもないことを...", "そろそろ怒りますよ？", "まったく...", "...度し難いです...", "...マジに殴られたいのですか？", "変態！"]
+	}, {
+		"selector": "#waifu-tool .fa-comment",
+		"text": ["私について？", "井の中の蛙大海を知らず...やもしれません。"]
+	}, {
+		"selector": "#waifu-tool .fa-paper-plane",
+		"text": ["ツール選択画面ですね。", "「クリックするな」的な説明が...", "ゲームでもしますか？", "ダンスとかもしてみたいかも..."]
+	}, {
+		"selector": "#waifu-tool .fa-user-circle",
+		"text": ["あら、交代ですか？","寂しいものです", "つれないですね...", "私じゃだめですか？", "えっと..."]
+	}, {
+		"selector": "#waifu-tool .fa-street-view",
+		"text": ["ご一緒しても？", "散歩でも...", "(ジャンプする音)", "今日は何が起こるんでしょうか。"]
+	}, {
+		"selector": "#waifu-tool .fa-camera-retro",
+		"text": ["写真ですか？ハイチーズ...まだ撮ってない？そうですか...", "(微笑)", "はーい、笑ってくださーい"]
+	}, {
+		"selector": "#waifu-tool .fa-info-circle",
+		"text": ["私に興味がわきましたか？", "知識はあなたを豊かにする...やもしれません。", "私の人事ファイルですね..."]
+	}, {
+		"selector": "#waifu-tool .fa-times",
+		"text": ["あら、さようならですか？", "それではまた...", "ついにお役御免ですか...", "少し寂しいですね...", "それでは、またいつか。"]
+	}, {
+		"selector": ".menu-item-home a",
+		"text": ["クリックしてホームページに移動します。前のページに戻りたい場合は、ブラウザの戻る機能を使用できます。", "クリックしてホームページに戻ります。", "ホームページに戻ってみましょう。 "]
+	}, {
+		"selector": ".menu-item-about a",
+		"text": ["私の協力者...「博士」についてですか？", "博士が広報をしたがっているようです。", "「うっ...このページは！まさか！」...だそうです。"]
+	}, {
+		"selector": ".menu-item-tags a",
+		"text": ["クリックして記事のタグを表示します。", "クリックしてすべてのタグを表示します。"]
+	}, {
+		"selector": ".menu-item-categories a",
+		"text": ["記事はもの好きによって分類されています。", "分類委員会に感謝ですね。"]
+	}, {
+		"selector": ".menu-item-archives a",
+		"text": ["ページをめくるのは面倒ですか？記事のアーカイブを見てみましょう。", "記事カタログはすべてここに整理されています。"]
+	}, {
+		"selector": ".menu-item-friends a",
+		"text": ["友達...", "知り合い？...どうだっけ...", "友達に会いに行きましょう。"]
+	}, {
+		"selector": ".menu-item-search a",
+		"text": ["見たいものが見つかりませんか？「探せ！そこにすべてを置いてきた！」...使い方、あってますよね？", "何かお探しですか？"]
+	}, {
+		"selector": ".menu-item a",
+		"text": ["ここを参照してください。"]
+	}, {
+		"selector": ".site-author",
+		"text": ["博士の情報を渡されています。", "博士について質問ですか？"]
+	}, {
+		"selector": ".site-state",
+		"text": ["統計を表示できるようです。", "クリックしてみます？"]
+	}, {
+		"selector": ".feed-link a",
+		"text": ["RSSがつかえるみたいですね...", "更新を通知できるやも.."]
+	}, {
+		"selector": ".cc-opacity, .post-copyright-author",
+		"text": ["権利関係は怖いですね。", "CC BY-NC-SA 4.0 を参照とのこと...。", "博士も権利は怖いと言っていました。"]
+	}, {
+		"selector": ".links-of-author",
+		"text": ["博士にご連絡ですか？", "博士の連絡先になります。"]
+	}, {
+		"selector": ".followme",
+		"text": ["携帯でスキャンしてみてください。", "こちらです..."]
+	}, {
+		"selector": ".fancybox img, img.medium-zoom-image",
+		"text": ["画像をクリックすると拡大します。"]
+	}, {
+		"selector": ".copy-btn",
+		"text": ["'コードをクリックすると、コードを直接コピーできます。"]
+	}, {
+		"selector": ".highlight .table-container, .gist",
+		"text": ["GitHub！"]
+	}, {
+		"selector": "a[href^='mailto']",
+		"text": ["時間内にメールに返信します！ '、'クリックしてメールを送信します。"]
+	}, {
+		"selector": "a[href^='/tags/']",
+		"text": [" <span>{text}</span> タグを見たいですか？？", "クリックすると、このラベルの下にあるすべての記事が表示されます。"]
+	}, {
+		"selector": "a[href^='/categories/']",
+		"text": [" <span>{text}</span> カテゴリを見たいですか？", "クリックすると、このカテゴリにあるすべての記事が表示されます。"]
+	}, {
+		"selector": ".post-title-link",
+		"text": ["この記事を <span> {text} </ span> 読みたいですか？"]
+	}, {
+		"selector": "a[rel='contents']",
+		"text": ["クリックして全文を読みます。"]
+	}, {
+		"selector": "a[itemprop='discussionUrl']",
+		"text": ["コメントを見たいですか？"]
+	}, {
+		"selector": ".beian a",
+		"text": ["中国で有名なサービスでしょう。", "私も博士もノータッチです。"]
+	}, {
+		"selector": ".container a[href^='http'], .nav-link .nav-text",
+		"text": [" <span>{text}</span> を見たいですか？", " <span>{text}</span> に移動して散歩しましょう。", " <span>{text}</span> を見てみましょう。"]
+	}, {
+		"selector": ".back-to-top",
+		"text": ["クリックしてトップに戻ります。", "元の地点に戻ります。", "開始した場所に戻りますか？"]
+	}, {
+		"selector": ".reward-container",
+		"text": ["ぜひ高評価をお願いします。", "博士はなかなかに貧乏です。", "ここ最近博士がもやし以外を食べるのを見たことがない..."]
+	}, {
+		"selector": "#wechat",
+		"text": ["wechatのQRですね...未実装ですけど。"]
+	}, {
+		"selector": "#alipay",
+		"text": ["（原作者のaripayが表示されてる...）"]
+	}, {
+		"selector": "#bitcoin",
+		"text": ["（原作者のbitcoinアドレスが表示されてる...）"]
+	}, {
+		"selector": "#needsharebutton-postbottom .btn",
+		"text": ["私が有名になるのは気が引けますが、カバーストーリのための手段です。", "私の有能さに感心した？...光栄です。"]
+	}, {
+		"selector": ".need-share-button_weibo",
+		"text": ["weiboというさーびすですね。"]
+	}, {
+		"selector": ".need-share-button_wechat",
+		"text": ["シェアは励みになります。"]
+	}, {
+		"selector": ".need-share-button_douban",
+		"text": ["どーばんなるサービスのシェアですね..."]
+	}, {
+		"selector": ".need-share-button_qqzone",
+		"text": ["QQゾーンというサービスのシェアですね..."]
+	}, {
+		"selector": ".need-share-button_twitter",
+		"text": ["twitterに拡散しましょう。"]
+	}, {
+		"selector": ".need-share-button_facebook",
+		"text": ["うーむ...facebookはあまりよくわからないですね..."]
+	}, {
+		"selector": ".post-nav-item a[rel='next']",
+		"text": ["次の記事をご所望ですか？", "クリックで次の記事に移動します。", "次の記事に移りますか？"]
+	}, {
+		"selector": ".post-nav-item a[rel='prev']",
+		"text": ["前の記事をご所望ですか？", "クリックで前の記事に移ります。", "前の記事に移動しますか？"]
+	}, {
+		"selector": ".extend.next",
+		"text": ["次のページに移動して閲覧できます。", "次のページに戻ります。", "クリックで先に進めます。"]
+	}, {
+		"selector": ".extend.prev",
+		"text": ["前のページに移動できます。", "クリックで前のページに戻れます。", "前の記事に移動しますか？"]
+	}, {
+		"selector": "input.vnick",
+		"text": ["私はあなたをどう呼べばいいでしょうか。", "名前をお聞かせください。"]
+	}, {
+		"selector": ".vmail",
+		"text": ["通知メールを受け取るサービス...未実装です。", "すみません、未実装のメールサービスです。", "クリックしないほうが賢明かと..."]
+	}, {
+		"selector": ".vlink",
+		"text": ["あなたについて、教えてください。"]
+	}, {
+		"selector": ".veditor",
+		"text": ["何かご要望でしょうか。", "博士と連絡を取りたい？", "博士につないでくれ...と？"]
+	}, {
+		"selector": ".vcontrol a",
+		"text": ["マークダウンは便利です。....本当に。", "よりよいサービスのために、マークダウンを..."]
+	}, {
+		"selector": ".vemoji-btn",
+		"text": ["あら、絵文字ですか？", "今の気持ちを絵文字でどうぞ。"]
+	}, {
+		"selector": ".vpreview-btn",
+		"text": ["音読しましょうか。", "コメントから悪意が...まあ、いいでしょう。"]
+	}, {
+		"selector": ".vsubmit",
+		"text": ["コメント返信はできないかもです。", "回答をお待ちくださいな。とのこと。"]
+	}, {
+		"selector": ".vcontent",
+		"text": ["なるほど...これはまた素晴らしいコメントっスね...", "FAQ的なコメントはこちらまで。"]
+	}],
+	"click": [{
+		"selector": "#live2d",
+		"text": ["あら、うっかり当たってしまったんですよね？", "ロリコン？知らない言葉ですね。", "あら...確信犯ですか？", "...警告です。やめておいたほうがいいですよ。", "警察沙汰になっても知りませんからね...", "反撃手段が無いと思って好き勝手していますね...?", "気持ち悪い...", "...変態！"]
+	}, {
+		"selector": ".veditor",
+		"text": ["...にゃん？", "コメントでしょうか？", "コメントは気にしないでください。"]
+	}, {
+		"selector": ".vsubmit",
+		"text": ["コメントする場合はキャプチャをクリアしてくださいね..."]
+	}],
+	"seasons": [{
+		"date": "01/01",
+		"text": "<span>元旦</span>あけましておめでとうございます。{year}年も変わらず、業務を頑張ってください。"
+	}, {
+		"date": "01/19",
+		"text": "<span>scp財団始まりの日です。食堂でアイス配るらしいですよ。"
+	}, {
+		"date": "02/14",
+		"text": "...今日は何の日でしたっけ...バレ,...何もないですよね？"
+	}, {
+		"date": "03/08",
+		"text": "今日は<span>国際女性デー</span>ですね！"
+	}, {
+		"date": "03/12",
+		"text": "今日は<span>植樹祭</span>。緑を大切に。"
+	}, {
+		"date": "04/01",
+		"text": "内緒ですよ...<span>今日はエイプリルフールです。</span>"
+	}, {
+		"date": "05/05",
+		"text": "今日は<span>こどもの日だそうで。</span>，"
+	}, {
+		"date": "06/01",
+		"text": "<span>祝日がない月</span>が始まりますね..."
+	}, {
+		"date": "09/03",
+		"text": "<span>中国の日本占領が終わった日です。</span>，過去は消えませんが、乗り越えるのが、過去に学ぶのが人類です。"
+	}, {
+		"date": "09/4",
+		"text": "博士の誕生日。"
+	}, {
+		"date": "10/01",
+		"text": "<span>コーヒーの日です。</span>あったかいですね。"
+	}, {
+		"date": "11/05-11/12",
+		"text": "今年の<span>おひとりさま月間</span>楽しみです。"
+	}, {
+		"date": "12/20-12/31",
+		"text": "年の瀬ですね...クリスマスについてどんな予定が？"
+	}]
+}
