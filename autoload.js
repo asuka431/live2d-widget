@@ -1,4 +1,4 @@
-// 注意：live2d_path 参数应使用绝对路径
+// 注意：live2d_path 絶対パス参照！URLでも全部書くこと！
 const live2d_path = "https://cdn.jsdelivr.net/gh/asuka431/live2d-widget@test3/";
 //const live2d_path = "/live2d-widget/";
 

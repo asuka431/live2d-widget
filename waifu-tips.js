@@ -97,7 +97,7 @@ function loadWidget(config) {
 			showMessage("コピペは便利です。ドンドン多用しましょう。", 6000, 9);
 		});
 		window.addEventListener("visibilitychange", () => {
-			if (!document.hidden) showMessage("あら...それではさようなら...", 6000, 9);
+			if (!document.hidden) showMessage("あら、今どこのサイトをご参照で？", 6000, 9);
 		});
 	})();
 
@@ -120,7 +120,7 @@ function loadWidget(config) {
 			else if (domain === "baidu") text = `こんにちは。<br>百度検索 <span>${referrer.search.split("&wd=")[1].split("&")[0]}</span> をご使用ですか？`;
 			else if (domain === "duckduckgo") text = `もしや<br>duckduckgo <span>${referrer.search.split("&q=")[1].split("&")[0]}</span> を使用するのですか？`;
 			else if (domain === "google") text = `OK,<br>Google<span>「${document.title.split(" - ")[0]}」</span>というやつですね。`;
-			else text = `どうも。 <span>${referrer.hostname}</span> ユーザー様でしたか。`;
+			else text = `どうも。 <span>${referrer.hostname}</span> からのリダイレクトが記録されました。`;
 		} else {
 			text = `管理官様、<span>「${document.title.split(" - ")[0]}」</span>へようこそ。`;
 		}
